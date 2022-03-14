@@ -6,8 +6,8 @@ function Kitchen(props){
     <>
     <div>
       Kitchen
-    <Sink />
-    <Oven />
+      <Sink />
+      <Oven />
     </div>
     </>
   )
